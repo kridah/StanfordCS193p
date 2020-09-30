@@ -1,0 +1,22 @@
+cs193p
+Lecture 2 - hjemmelekse
+Randomiser plasseringen av kort
+Fiks høyde/utseende på kortene
+Tilfeldig antall kort
+
+// Protocol
+Interface
+Kan ha funksjoner og var, men ingen implmenetasjon
+implementeres med; struct myStruct: myProtocol
+Struct og klasser kan implementere flere protokoller
+Kan arve protokoll
+Moveable <- Vehicle <- Car
+constrains and gains - må være av typen, men får egenskapene til typen
+kan legge til Extensions
+func registerWithDMV() {/* implementation here*/}
+Kan "implementere" var også, men må skrive dem som en funksjon
+Eks
+var tellTilTi {
+for i in 1...10
+return i
+}

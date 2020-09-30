@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "72A7DFBA-DA6F-491F-AD83-52512113DD79"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE0B8237-7C32-43B2-8A3D-FBC841DAC412"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StanfordCS193p/GridLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "init(itemCount:nearAspectRatio:in:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE0B8237-7C32-43B2-8A3D-FBC841DAC412 - c65b8e769bb0b153"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 1 of StanfordCS193p.GridLayout.init(itemCount: Swift.Int, nearAspectRatio: Swift.Double, in: __C.CGSize) -&gt; StanfordCS193p.GridLayout"
+                  moduleName = "StanfordCS193p"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kridah/Documents/swift-coding/StanfordCS193p/StanfordCS193p/GridLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "FE0B8237-7C32-43B2-8A3D-FBC841DAC412 - 5782597846dacf2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StanfordCS193p.GridLayout.init(itemCount: Swift.Int, nearAspectRatio: Swift.Double, in: __C.CGSize) -&gt; StanfordCS193p.GridLayout"
+                  moduleName = "StanfordCS193p"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kridah/Documents/swift-coding/StanfordCS193p/StanfordCS193p/GridLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
